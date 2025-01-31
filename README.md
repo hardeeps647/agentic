@@ -185,7 +185,7 @@ For more details, see the [docs](https://agentic.so).
 - [Travis Fischer](https://x.com/transitive_bs)
 - [David Zhang](https://x.com/dzhng)
 - [Philipp Burckhardt](https://x.com/burckhap)
-- And all of the [amazing OSS contributors](https://github.com/transitive-bullshit/agentic/graphs/contributors)!
+- [Hardeep Dhaliwal](https://x.com/soramindai)
 
 ## License
 
